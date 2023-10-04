@@ -297,7 +297,7 @@ section {
 .schedule {
   background-color: #ffc107; /* Yellow background color */
   padding: 20px;
-  font-family: "Comic Sans MS", cursive, sans-serif; /* Example font family */
+  font-family: "Comic Sans MS"; /* Example font family */
   border-left: 3px solid #f44336; /* Red left border */
   padding-left: 10px;
 }
